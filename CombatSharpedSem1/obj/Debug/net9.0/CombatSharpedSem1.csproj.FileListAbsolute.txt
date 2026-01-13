@@ -1,0 +1,14 @@
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\bin\Debug\net9.0\CombatSharpedSem1.exe
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\bin\Debug\net9.0\CombatSharpedSem1.deps.json
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\bin\Debug\net9.0\CombatSharpedSem1.runtimeconfig.json
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\bin\Debug\net9.0\CombatSharpedSem1.dll
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\bin\Debug\net9.0\CombatSharpedSem1.pdb
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\CombatSharpedSem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\CombatSharpedSem1.AssemblyInfoInputs.cache
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\CombatSharpedSem1.AssemblyInfo.cs
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\CombatSharpedSem1.csproj.CoreCompileInputs.cache
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\CombatSharpedSem1.dll
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\refint\CombatSharpedSem1.dll
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\CombatSharpedSem1.pdb
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\CombatSharpedSem1.genruntimeconfig.cache
+C:\Users\akaczm37\Desktop\SWPSowe\CombatSharped\CombatSharpedSem1\obj\Debug\net9.0\ref\CombatSharpedSem1.dll
