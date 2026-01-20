@@ -17,7 +17,7 @@ public class Program
         Console.WriteLine("Welcome. In this game you'll face endless waves of enemies.\nAfter defeating an enemy, you'll gain XP which would eventually lead you to get to higher levels,\nunlocking extra skills.");
         Console.WriteLine("Just tell me your name first, and lets get started!");
         Player player = new Player(Console.ReadLine());
-        Console.WriteLine($"Nice to meet you, {PlayerName}!\nGood luck and have fun!");
+        Console.WriteLine($"Nice to meet you, {player.Name}!\nGood luck and have fun!");
     }
 
     
@@ -26,6 +26,7 @@ public class Program
 public class Player
 {
     public string Name;
+    public string Class;
     public int Level;
     public int XP;
     public int MaxHP;
@@ -38,9 +39,15 @@ public class Player
         Name = name;
         Level = 1;
         XP = 0;
+        NextLevelXP = 300;
         MaxHP = 100;
         CurrentHP = MaxHP;
         AttackPower = 12;
-        Skills = new List<string> { "Slash", "Block" };
+        Actions = new List<string> { "Slash", "Block" };
     }
+}
+
+public class Enemy
+{
+    
 }
