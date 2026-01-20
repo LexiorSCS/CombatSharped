@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombatSharpedSem1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bea78f8f42038851c384eaa11dcb0b24f11c80de")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombatSharpedSem1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombatSharpedSem1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
