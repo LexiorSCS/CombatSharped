@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6y/uNRNityQ=",
+  "dgSpecHash": "C5GpHbjO68g=",
   "success": true,
-  "projectFilePath": "E:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj",
+  "projectFilePath": "e:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lexior-KOMPUTERPC\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
     "C:\\Users\\Lexior-KOMPUTERPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",

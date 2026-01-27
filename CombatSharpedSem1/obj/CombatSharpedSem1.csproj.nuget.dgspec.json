@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj": {}
+    "e:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj": {}
   },
   "projects": {
-    "E:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj": {
+    "e:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj",
+        "projectUniqueName": "e:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj",
         "projectName": "CombatSharpedSem1",
-        "projectPath": "E:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj",
+        "projectPath": "e:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj",
         "packagesPath": "C:\\Users\\Lexior-KOMPUTERPC\\.nuget\\packages\\",
-        "outputPath": "E:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\obj\\",
+        "outputPath": "e:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lexior-KOMPUTERPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
