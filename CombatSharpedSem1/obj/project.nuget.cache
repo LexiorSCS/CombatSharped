@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NnbJcgnhY6w=",
+  "dgSpecHash": "6y/uNRNityQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\akaczm37\\Desktop\\SWPSowe\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\!VSCodeProjects\\CombatSharped\\CombatSharped\\CombatSharpedSem1\\CombatSharpedSem1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lexior-KOMPUTERPC\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Lexior-KOMPUTERPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Lexior-KOMPUTERPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Lexior-KOMPUTERPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

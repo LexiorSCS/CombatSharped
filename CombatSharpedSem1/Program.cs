@@ -29,10 +29,11 @@ public class Player
     public string Class;
     public int Level;
     public int XP;
+    public int NextLevelXP;
     public int MaxHP;
     public int CurrentHP;
     public int AttackPower;
-    public List<string> Skills;
+    public List<string> Actions;
 
     public Player(string name)
     {
